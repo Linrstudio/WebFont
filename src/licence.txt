@@ -1,0 +1,4 @@
+程序中使用的以下开源程式，版权归原作者，并特此感谢：
+
+* webfont-generator: https://github.com/moven/webfont-generator
+* ttf2eot.exe: https://code.google.com/p/ttf2eot/

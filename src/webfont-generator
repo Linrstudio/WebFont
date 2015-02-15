@@ -1,0 +1,21 @@
+#!/usr/bin/env node
+
+var fg = require('./index')
+  , path = require('path')
+;
+
+if (process.argv.length < 4) {
+  console.log('Usage: webfont-generator <input folder> <output folder>');
+  return;
+}
+
+var inputDir = path.resolve(process.argv[2]);
+var outputDir = path.resolve(process.argv[3]);
+fg.generateFont(inputDir, outputDir, function (err, result) {
+  if (err) {
+    console.log('Error: ' + err);
+    return;
+  }
+  console.log('Successfully generated font from ' + inputDir);
+  console.log(result);
+});

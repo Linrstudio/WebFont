@@ -1,0 +1,46 @@
+{
+  "name": "webfont-generator",
+  "version": "0.0.2",
+  "author": "Movencorp Inc <support@moven.com>",
+  "description": "A utility for packaging webfonts from individual SVG files",
+  "contributors": [
+    {
+      "email": "shah@moven.com"
+    }
+  ],
+  "scripts": {
+    "start": "node index"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/caolan/async/raw/master/LICENSE"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moven/webfont-generator.git"
+  },
+  "bin": {
+    "webfont-generator": "./webfont-generator"
+  },
+  "keywords": [
+    "svg",
+    "woff",
+    "ttf",
+    "unicode"
+  ],
+  "dependencies": {
+    "ttf2woff": "~1.2.0",
+    "svg2ttf": "~1.1.2",
+    "svgo": "~0.4.4",
+    "xml2js": "~0.4.1",
+    "async": "~0.2.9",
+    "underscore": "~1.5.2",
+    "svgpath": "~1.0.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "=0.10.8"
+  }
+}
