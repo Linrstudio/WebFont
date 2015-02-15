@@ -17,14 +17,21 @@
 
 ### 安装 Install
 
+#### Windows
+
 下载安装 WebFont.exe，Windows 资源管理器右键菜单中将包含“WebFont”菜单项，您可以在 svg 文件上点击右键，即可添加字体项目；
 
 安装成功后，可以在 Photoshop 菜单“窗口” > “扩展” 中找到 WebFont。
 Once installed, you can find "WebFont" at Window > Extensions > WebFont.
 
+#### Mac OS
+
+需下载 src 中的程式，将其拷贝到 HOME 目录的 WebFont 目录下，另外 Mac OS 需要单独安装 Node 工具。我们还在进一步完善中，敬请期待。
+
 ### 版本要求 Version requred:
 * Windows 7/8/8.1
 * Photoshop CC / Photoshop CC 2014 (14.2+)
+* Mac OS（不完整，开发中...）
 
 ### 已知问题 issue
 
