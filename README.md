@@ -35,7 +35,7 @@ Once installed, you can find "WebFont" at Window > Extensions > WebFont.
 
 ### 已知问题 issue
 
-* 生成的字体在安卓部分机器中有部分字符不显示（暂理解为安卓的bug，但 icomoon 生成的却没有问题，说明还跟 svg 的源代码有一定的关系，还在排查。）
+* 生成的字体在安卓部分机器中有部分字符不显示（暂理解为安卓的bug。icomoon.io, iconfont.cn 生成的 ttf 同样有在安卓某些版本的 webview 中不显示的 BUG。）
 
 
 ### 感谢 Thanks
