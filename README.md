@@ -1,5 +1,7 @@
 ## WebFont 生成器
 
+<img src="https://github.com/Linrstudio/WebFont/blob/master/video.gif?raw=true" />
+
 ### WebFont 功能特色
 
  * 将 svg 图形，一键生成 ttf, woff, svg, eot 字体文件；
@@ -9,7 +11,13 @@
  * 生成的字体及 CSS3 代码，兼容 IE6+ 及所有现代浏览器；
  * 离线工具，无需联网；
  * 后续更多特性，如果您也有好建议，请反馈给我们！
+ 
 
+### Photoshop 面板特色
+
+* 支持固定大小——在图层名后面添加 64x 则代表输出 64x64px 大小 svg；
+* 支持添加 Padding——在图层名后面添加 +20 则代表在 svg 四周添加 20px 空白；
+* 支持原始布局 svg 输出，即保持内容不被水平垂直居中——在图层后面添加 _raw 即可；
 
 ### 下载 Download
 
