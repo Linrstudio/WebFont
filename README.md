@@ -21,6 +21,7 @@
 
 ### 下载 Download
 
+请在 [Download](https://github.com/Linrstudio/WebFont/raw/master/download/WebFont-1.6.2-for-Photoshop-CC-2018.zip 'Download') 下载(for Photoshop CC 2018)
 请在 [Download](https://github.com/Linrstudio/WebFont/raw/master/download/WebFont-1.6.0.zip 'Download') 下载(for Photoshop CC 2015.5)
 请在 [Download](https://github.com/Linrstudio/WebFont/raw/master/download/WebFont-1.5.0.zip 'Download') 下载(for Photoshop CC 2015-)
 
